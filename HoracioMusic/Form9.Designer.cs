@@ -45,9 +45,9 @@ namespace HoracioMusic
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(179, -101);
+            this.pictureBox1.Location = new System.Drawing.Point(187, -95);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(439, 294);
+            this.pictureBox1.Size = new System.Drawing.Size(419, 297);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
@@ -57,7 +57,7 @@ namespace HoracioMusic
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(318, 508);
+            this.button1.Location = new System.Drawing.Point(328, 484);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(230, 41);
             this.button1.TabIndex = 10;
